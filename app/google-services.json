@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "838549159018",
+    "project_id": "noteon-fb08d",
+    "storage_bucket": "noteon-fb08d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838549159018:android:29d86f9c3603ad351c5e13",
+        "android_client_info": {
+          "package_name": "com.example.uasakbif_210119051"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838549159018-tnl0qsueg4p4vb3makn26r6ms9hai8dj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx6o9NdGqeWX41CsNuDd8LvZKjxhBNjGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838549159018-tnl0qsueg4p4vb3makn26r6ms9hai8dj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

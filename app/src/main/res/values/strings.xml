@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">UAS AKB IF-2 10119051</string>
+    <string name="title_home">Home</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_dashboard">Note</string>
+    <string name="title_notifications">Info</string>
+    <string name="title_activity_sign_up">SignUp</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+    <string name="judul1">"UNIKOM"</string>
+    <string name="judul2">"NOTEON V0.1"</string>
+    <string name="judul3">"DEVELOPED BY YUDHI"</string>
+
+    <string name="desk_1">"TEKNIK INFORMATIKA"</string>
+    <string name="desk_2">"APLIKASI CATATAN HARIAN"</string>
+    <string name="desk_3">"Rahmayudhi.10119051@mahasiswa.unikom.ac.id"</string>
+    <string name="nav_header_title">NOTEON</string>
+    <string name="nav_header_subtitle">Developed by RahmayudhiP</string>
+
+    <string name="isi_catatan">Isi Catatan</string>
+    <string name="nomor">Nomor</string>
+    <string name="tanggal">Tanggal</string>
+    <string name="judul">Judul</string>
+    <string name="kategori">Kategori</string>
+    <string name="kembali">Kembali</string>
+    <string name="simpan">Simpan</string>
+
+</resources>
